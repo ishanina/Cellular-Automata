@@ -1,0 +1,168 @@
+States 11
+Adjacent 11010101
+
+Rule
+Start 0
+3 1
+End 4
+
+Rule
+Start 0
+4 3
+End 3
+
+Rule
+Start 2
+2 1
+End 2
+
+Rule
+Start 2
+2 2
+End 2
+Rule
+Start 2
+
+Rule
+Start 2
+2 1
+1 3
+End 3
+
+Rule
+Start 1
+1 3
+End 1
+
+Rule
+Start 0
+1 4
+End 3
+
+Rule
+Start 0
+3 1
+1 2
+End 4
+
+Rule
+Start 0
+4 4
+End 1
+
+Rule
+Start 0
+4 2
+2 1
+End 2
+
+Rule
+Start 0
+5 3
+End 3
+
+Rule
+Start 5
+End 5
+
+Rule
+Start 5
+3 1
+End 5
+
+Rule
+Start 0
+6 1
+6 2
+End 7
+
+Rule
+Start 0
+7 1
+End 8
+
+Rule
+Start 0
+7 1
+2 1
+End 8
+
+Rule
+Start 0
+6 1
+End 9
+
+Rule
+Start 0
+6 1
+2 1
+End 9
+
+Rule
+Start 7
+End 7
+
+Rule
+Start 0
+8 1
+6 1
+End 6
+
+Rule
+Start 0
+9 1
+6 1
+End 7
+
+Rule
+Start 0
+6 1
+7 1
+End 6
+
+Rule
+Start 2
+2 1
+9 2
+End 5
+
+Rule
+Start 2
+2 1
+9 1
+End 2
+
+Rule
+Start 2
+2 1
+8 1
+End 2
+
+Rule
+Start 2
+2 1
+5 1
+End 5
+
+Rule
+Start 0
+4 3
+5 2
+End 7
+
+// Conway's Game of Life
+Custom 11111111
+Rule
+Start 0
+10 3
+End 10
+
+Rule
+Start 10
+10 3
+End 10
+
+Rule
+Start 10
+10 2
+End 10

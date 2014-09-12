@@ -40,3 +40,17 @@ C:\Users\Ishan\Documents\Visual Studio 2013\Workspace\Cellular Automata\obj\Debu
 C:\Users\Ishan\Documents\Visual Studio 2013\Workspace\Cellular Automata\obj\Debug\Cellular Automata.csproj.GenerateResource.Cache
 C:\Users\Ishan\Documents\Visual Studio 2013\Workspace\Cellular Automata\obj\Debug\Cellular Automata.exe.manifest
 C:\Users\Ishan\Documents\Visual Studio 2013\Workspace\Cellular Automata\obj\Debug\Cellular Automata.application
+C:\Sites\Cellular-Automata\Cellular Automata\bin\Debug\Cellular Automata.exe.config
+C:\Sites\Cellular-Automata\Cellular Automata\obj\Debug\Cellular Automata.exe
+C:\Sites\Cellular-Automata\Cellular Automata\obj\Debug\Cellular Automata.pdb
+C:\Sites\Cellular-Automata\Cellular Automata\bin\Debug\Cellular Automata.exe.manifest
+C:\Sites\Cellular-Automata\Cellular Automata\bin\Debug\Cellular Automata.application
+C:\Sites\Cellular-Automata\Cellular Automata\bin\Debug\Cellular Automata.exe
+C:\Sites\Cellular-Automata\Cellular Automata\bin\Debug\Cellular Automata.pdb
+C:\Sites\Cellular-Automata\Cellular Automata\obj\Debug\Cellular Automata.csprojResolveAssemblyReference.cache
+C:\Sites\Cellular-Automata\Cellular Automata\obj\Debug\Cellular_Automata.Choose_Amount.resources
+C:\Sites\Cellular-Automata\Cellular Automata\obj\Debug\Cellular_Automata.Main_App.resources
+C:\Sites\Cellular-Automata\Cellular Automata\obj\Debug\Cellular_Automata.Properties.Resources.resources
+C:\Sites\Cellular-Automata\Cellular Automata\obj\Debug\Cellular Automata.csproj.GenerateResource.Cache
+C:\Sites\Cellular-Automata\Cellular Automata\obj\Debug\Cellular Automata.exe.manifest
+C:\Sites\Cellular-Automata\Cellular Automata\obj\Debug\Cellular Automata.application

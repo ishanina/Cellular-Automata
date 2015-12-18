@@ -43,14 +43,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Cellular Automata.exe" size="90112">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Cellular Automata.exe" size="89088">
       <assemblyIdentity name="Cellular Automata" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>/HxCxhu/4UEWAVoexZ39YHcbo311MwI627P09BrlsMk=</dsig:DigestValue>
+        <dsig:DigestValue>M5hZlIrM/P/TWCVogSzW6XDhOUMghIDmWTshtSyFsoU=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

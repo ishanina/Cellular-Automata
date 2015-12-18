@@ -40,3 +40,17 @@ C:\Sites\Cellular-Automata\Cellular Automata\obj\Release\Cellular_Automata.Prope
 C:\Sites\Cellular-Automata\Cellular Automata\obj\Release\Cellular Automata.csproj.GenerateResource.Cache
 C:\Sites\Cellular-Automata\Cellular Automata\obj\Release\Cellular Automata.exe.manifest
 C:\Sites\Cellular-Automata\Cellular Automata\obj\Release\Cellular Automata.application
+C:\Users\Ishan\Documents\GitHub\Cellular-Automata\Cellular Automata\bin\Release\Cellular Automata.exe.config
+C:\Users\Ishan\Documents\GitHub\Cellular-Automata\Cellular Automata\obj\Release\Cellular Automata.exe
+C:\Users\Ishan\Documents\GitHub\Cellular-Automata\Cellular Automata\obj\Release\Cellular Automata.pdb
+C:\Users\Ishan\Documents\GitHub\Cellular-Automata\Cellular Automata\obj\Release\Cellular Automata.csprojResolveAssemblyReference.cache
+C:\Users\Ishan\Documents\GitHub\Cellular-Automata\Cellular Automata\obj\Release\Cellular_Automata.Choose_Amount.resources
+C:\Users\Ishan\Documents\GitHub\Cellular-Automata\Cellular Automata\obj\Release\Cellular_Automata.Main_App.resources
+C:\Users\Ishan\Documents\GitHub\Cellular-Automata\Cellular Automata\obj\Release\Cellular_Automata.Properties.Resources.resources
+C:\Users\Ishan\Documents\GitHub\Cellular-Automata\Cellular Automata\obj\Release\Cellular Automata.csproj.GenerateResource.Cache
+C:\Users\Ishan\Documents\GitHub\Cellular-Automata\Cellular Automata\bin\Release\Cellular Automata.exe.manifest
+C:\Users\Ishan\Documents\GitHub\Cellular-Automata\Cellular Automata\bin\Release\Cellular Automata.application
+C:\Users\Ishan\Documents\GitHub\Cellular-Automata\Cellular Automata\bin\Release\Cellular Automata.exe
+C:\Users\Ishan\Documents\GitHub\Cellular-Automata\Cellular Automata\bin\Release\Cellular Automata.pdb
+C:\Users\Ishan\Documents\GitHub\Cellular-Automata\Cellular Automata\obj\Release\Cellular Automata.exe.manifest
+C:\Users\Ishan\Documents\GitHub\Cellular-Automata\Cellular Automata\obj\Release\Cellular Automata.application

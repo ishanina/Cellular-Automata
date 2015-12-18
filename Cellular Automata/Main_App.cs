@@ -15,7 +15,7 @@ namespace Cellular_Automata
     {
         public Rule_Set Rules = new Rule_Set();
         public Grid G;
-        public int Shift = 132;
+        public int Shift = 100;
         public int Cell_Pixels = 32;
         public bool Playing = false;
         public double Run_Speed = 3.0;
@@ -78,7 +78,8 @@ namespace Cellular_Automata
 
         private void Initialize_Grid(int Apply_Ruleset = -1)
         {
-            G = new Grid((this.Size.Width - Shift) / Cell_Pixels - 1, this.Size.Height / Cell_Pixels - 1);
+            G = new Grid(1,1);
+            Resizer();
             if (Apply_Ruleset == 0)
                 Conway();
             G.Rules = Rules;
@@ -223,8 +224,8 @@ namespace Cellular_Automata
 
         public void Resizer()
         {
-            int X_Cells = (this.Size.Width - Shift) / Cell_Pixels - 1;
-            int Y_Cells = (this.Size.Height) / Cell_Pixels - 1;
+            int X_Cells = (this.Size.Width - Shift - 16) / Cell_Pixels;
+            int Y_Cells = (this.Size.Height - 40) / Cell_Pixels;
             try
             {
                 if ((X_Cells != G.Length || Y_Cells != G.Width) && X_Cells >= 2 && Y_Cells >= 2)

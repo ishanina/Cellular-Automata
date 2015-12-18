@@ -54,3 +54,17 @@ C:\Sites\Cellular-Automata\Cellular Automata\obj\Debug\Cellular_Automata.Propert
 C:\Sites\Cellular-Automata\Cellular Automata\obj\Debug\Cellular Automata.csproj.GenerateResource.Cache
 C:\Sites\Cellular-Automata\Cellular Automata\obj\Debug\Cellular Automata.exe.manifest
 C:\Sites\Cellular-Automata\Cellular Automata\obj\Debug\Cellular Automata.application
+C:\Users\Ishan\Documents\GitHub\Cellular-Automata\Cellular Automata\bin\Debug\Cellular Automata.exe.config
+C:\Users\Ishan\Documents\GitHub\Cellular-Automata\Cellular Automata\obj\Debug\Cellular Automata.exe
+C:\Users\Ishan\Documents\GitHub\Cellular-Automata\Cellular Automata\obj\Debug\Cellular Automata.pdb
+C:\Users\Ishan\Documents\GitHub\Cellular-Automata\Cellular Automata\bin\Debug\Cellular Automata.exe.manifest
+C:\Users\Ishan\Documents\GitHub\Cellular-Automata\Cellular Automata\bin\Debug\Cellular Automata.application
+C:\Users\Ishan\Documents\GitHub\Cellular-Automata\Cellular Automata\bin\Debug\Cellular Automata.exe
+C:\Users\Ishan\Documents\GitHub\Cellular-Automata\Cellular Automata\bin\Debug\Cellular Automata.pdb
+C:\Users\Ishan\Documents\GitHub\Cellular-Automata\Cellular Automata\obj\Debug\Cellular Automata.csprojResolveAssemblyReference.cache
+C:\Users\Ishan\Documents\GitHub\Cellular-Automata\Cellular Automata\obj\Debug\Cellular_Automata.Choose_Amount.resources
+C:\Users\Ishan\Documents\GitHub\Cellular-Automata\Cellular Automata\obj\Debug\Cellular_Automata.Main_App.resources
+C:\Users\Ishan\Documents\GitHub\Cellular-Automata\Cellular Automata\obj\Debug\Cellular_Automata.Properties.Resources.resources
+C:\Users\Ishan\Documents\GitHub\Cellular-Automata\Cellular Automata\obj\Debug\Cellular Automata.csproj.GenerateResource.Cache
+C:\Users\Ishan\Documents\GitHub\Cellular-Automata\Cellular Automata\obj\Debug\Cellular Automata.exe.manifest
+C:\Users\Ishan\Documents\GitHub\Cellular-Automata\Cellular Automata\obj\Debug\Cellular Automata.application
